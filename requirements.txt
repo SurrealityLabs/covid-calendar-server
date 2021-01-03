@@ -1,0 +1,4 @@
+requests==2.25.1
+pytz==2020.4
+DateTime==4.3
+git+https://github.com/rglenn/icalevents#egg=icalevents
